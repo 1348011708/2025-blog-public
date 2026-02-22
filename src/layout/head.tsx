@@ -13,6 +13,7 @@ export default function Head() {
 
 			<link href='https://fonts.googleapis.cn/css2?family=Averia+Gruesa+Libre&display=swap' rel='stylesheet' />
 
+			<script src="/tongji.js"></script>
 			<Script src='https://www.googletagmanager.com/gtag/js?id=G-ZNSFR7C9PM' />
 			<Script id='google-analytics'>
 				{`
